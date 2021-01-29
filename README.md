@@ -63,7 +63,7 @@ ADM-Manager 🐬 |
    1. sudo su
   </p>
  <p align="center">
-   2. wget https://github.com/pcfreak/Project-v2/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
+   2. wget https://github.com/pcfreak/Project-v2/raw/master/fog-debian && chmod +x ./fog-debian && ./fog-debian
   </p>
 <p align="center">
    3. Grab your coffee and wait. 🦊
@@ -84,20 +84,20 @@ ADM-Manager 🐬 |
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/01.jpg" width=400 height=400 >
+<img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/01.jpg" width=400 height=400 >
    </p>
    
   <p align="center">
-  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/02.jpg" width=400 height=600 >
-  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/03.jpg" width=400 height=600 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/02.jpg" width=400 height=600 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/03.jpg" width=400 height=600 >
   </p>
   
   <p align="center">
-  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/04.jpg" width=400 height=400 >
-  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/05.jpg" width=400 height=400 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/04.jpg" width=400 height=400 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/05.jpg" width=400 height=400 >
    </p>
     <p align="center">
-  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/06.jpg" width=400 height=800 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/master/files/screenshots/06.jpg" width=400 height=800 >
   
    </p>
    

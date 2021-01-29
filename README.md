@@ -93,7 +93,7 @@ ADM-Manager 🐬 |
   </p>
   
   <p align="center">
-  <img src="https://github.com/pcfreak/Project-v2raw/main/files/screenshots/04.jpg" width=400 height=400 >
+  <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/04.jpg" width=400 height=400 >
   <img src="https://github.com/pcfreak/Project-v2/raw/main/files/screenshots/05.jpg" width=400 height=400 >
    </p>
     <p align="center">
